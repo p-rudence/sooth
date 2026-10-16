@@ -1,0 +1,8 @@
+PxPlus IBM VGA 8x16
+From The Ultimate Oldschool PC Font Pack by VileR, https://int10h.org/oldschool-pc-fonts/
+
+This font is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License: https://creativecommons.org/licenses/by-sa/4.0/
+
+It is included unmodified. Sooth's own code is MIT-licensed (see LICENSE);
+this font keeps its own licence.
